@@ -1,0 +1,14 @@
+button{
+    background-color: red;
+    color: azure;
+    border-radius: 3px;
+    width: 150px;
+    height: 40px;
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
