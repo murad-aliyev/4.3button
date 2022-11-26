@@ -1,10 +1,22 @@
 button{
-    background-color: red;
     color: azure;
-    border-radius: 3px;
-    width: 150px;
-    height: 40px;
+    border-radius: 4px;
+    width: 180px;
+    height: 60px;
+    margin-top: 350px;
+    font-size: 20px;
     
+}
+
+.button-state1{
+    background-color: red;
+    color: white;
+    
+}
+
+.button-state2{
+    background-color: rgba(0, 0, 0, 0.05);
+    color: rgb(96, 96, 96);
 }
 
 div{
